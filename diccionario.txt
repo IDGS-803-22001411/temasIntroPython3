@@ -1,0 +1,4 @@
+hola:hello
+balón:ball
+casa:house
+perro:dog
